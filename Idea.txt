@@ -1,0 +1,8 @@
+The idea I have for this project is to connect students
+and with other students that have the same music tatse as them.
+
+A. The problem that it helps is students who feel lonely when they first enter a college campus
+
+B. The intended users are mostly college studens but more specifically college freshman.
+
+C. the actions that users will be able to do are register, login, password, add favorite artists, add favorite genere, add favorite album, liking system, messaging, and group playlist making.
